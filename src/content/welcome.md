@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Welcome to Ghost"
-author: Ghost
-tags: ["Getting Started"]
+title: "Welcome to my Project"
+author: Matthew Kim
+tags: ["Introduction"]
 image: img/welcome-to-ghost.jpg
-date: "2018-05-06T23:46:37.121Z"
+date: "2018-02-10T9:27:00Z"
 draft: false
 ---
 
