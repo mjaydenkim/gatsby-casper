@@ -3,7 +3,7 @@ layout: post
 title: Basic Info about Osmium
 image: img/testimg-cover.jpeg
 author: Matthew Kim
-date: 2019-02-10T05:14:47.45Z
+date: 2019-02-10T05:28:47.45Z
 tags: 
   - information
 ---
