@@ -1,4 +1,4 @@
-- id: MatthewKim
+- id: Ghost
   avatar: avatars/ghost.png
   bio: An Egan 7th grader. Enjoys Rubik's Cubes, Anime, and Video Games.
   twitter: mjaydenkim
@@ -12,3 +12,9 @@
   website: https://ghost.org/
   location: On a plane
   profile_image: img/alex-knight-326705-unsplash.jpg
+  - id: MatthewKim
+  avatar: avatars/ghost.png
+  bio: An Egan 7th grader. Enjoys Rubik's Cubes, Anime, and Video Games.
+  twitter: mjaydenkim
+  website: https://smtcubes.netlify.com/
+  location: At Home
