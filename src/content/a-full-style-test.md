@@ -5,7 +5,7 @@ image: img/testimg-cover.jpeg
 author: Matthew Kim
 date: 2019-02-10T07:03:47.149Z
 tags: 
-  - Tests
+  - information
 ---
 
 Below is some basic information about Osmium, including how and when it was found, its periodic square, and more. 
