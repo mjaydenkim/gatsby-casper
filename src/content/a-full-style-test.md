@@ -2,7 +2,7 @@
 layout: post
 title: Basic Info about Osmium
 image: img/testimg-cover.jpeg
-author: MatthewKim
+author: Matthew Kim
 date: 2018-09-30T07:03:47.149Z
 tags: 
   - Tests
