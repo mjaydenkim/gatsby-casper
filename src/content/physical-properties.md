@@ -4,7 +4,7 @@ title: "Physical Properties of Osmium"
 author: Matthew Kim
 tags: ["properties"]
 image: img/writing.jpg
-date: "2018-02-010T1:42:37.121Z"
+date: 2019-02-10T01:38:47.45Z
 draft: false
 ---
 
