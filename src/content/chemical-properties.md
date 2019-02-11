@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The Chemical Properties of Osmium"
-author: Ghost
-tags: ["Properties"]
+author: Matthew Kim
+tags: ["properties"]
 image: img/demo4.jpg
 date: 2019-02-10T01:41:47.45Z
 draft: false
