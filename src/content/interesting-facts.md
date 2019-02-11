@@ -2,7 +2,7 @@
 title: "Interesting Facts about Osmium"
 author: Matthew Kim
 tags: ["facts"]
-image: img/demo1.jpg
+image: img/bg.jpg
 date: "2019-02-10T03:40:47.45Z"
 draft: false
 ---
