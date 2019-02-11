@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Physical Properties of Osmium"
+title: "Bibliography"
 author: Matthew Kim
-tags: ["properties"]
-image: img/writing.jpg
+tags: ["bibliography"]
+image: img/biblio.png
 date: 2019-02-10T03:57:47.45Z
 draft: false
 ---
