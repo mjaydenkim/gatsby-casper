@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "The Chemical Properties of Osmium"
+title: "The Values and Uses of Osmium"
 author: Matthew Kim
 tags: ["properties"]
-image: img/demo4.jpg
+image: img/pen.jpg
 date: 2019-02-10T01:42:47.45Z
 draft: false
 ---
