@@ -3,11 +3,12 @@ title: "Interesting Facts about Osmium"
 author: Matthew Kim
 tags: ["facts"]
 image: img/demo1.jpg
-date: "1863-11-19T10:00:00.000Z"
+date: "2019-02-10T03:40:47.45Z"
 draft: false
 ---
 
-#Here are some interesting facts about Osmium:
+#Here are some interesting facts about Osmium: 
+<br/>
 
 1. The discovery of Osmium is linked to the discovery of Platinum, since osmium is the black residue left over after platinum is dissolved in aqua regia.
 2. Osmium is the rarest of all stable elements, it is found at 0.05 parts per billion in Earth's crust.
