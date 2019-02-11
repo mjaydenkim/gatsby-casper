@@ -10,9 +10,9 @@ draft: false
 
 #Bibliography
 
-[Chemicool](https://www.chemicool.com/elements/osmium.html "Chemicool")
-[Jefferson Lab](https://education.jlab.org/itselemental/ele076.html "Jefferson Lab")
-[SoftSchools](http://www.softschools.com/facts/periodic_table/osmium_facts/346/ "SoftSchools")
-[Chemistry Explained](http://www.chemistryexplained.com/elements/L-P/Osmium.html "Chemistry Explained")
-[Royal Society of Chemistry](http://www.rsc.org/periodic-table/element/76/osmium "Royal Society of Chemistry")
-[Azom](https://www.azom.com/article.aspx?ArticleID=6061 "Azom")
+[Chemicool](https://www.chemicool.com/elements/osmium.html "Chemicool") <br/>
+[Jefferson Lab](https://education.jlab.org/itselemental/ele076.html "Jefferson Lab") <br/>
+[SoftSchools](http://www.softschools.com/facts/periodic_table/osmium_facts/346/ "SoftSchools") <br/>
+[Chemistry Explained](http://www.chemistryexplained.com/elements/L-P/Osmium.html "Chemistry Explained") <br/>
+[Royal Society of Chemistry](http://www.rsc.org/periodic-table/element/76/osmium "Royal Society of Chemistry") <br/>
+[Azom](https://www.azom.com/article.aspx?ArticleID=6061 "Azom") <br/>
