@@ -2,7 +2,7 @@
 layout: post
 title: "The Values and Uses of Osmium"
 author: Matthew Kim
-tags: ["properties"]
+tags: ["uses"]
 image: img/pen.jpg
 date: 2019-02-10T01:42:47.45Z
 draft: false
